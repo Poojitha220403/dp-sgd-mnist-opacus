@@ -1,0 +1,9 @@
+# Data downloaded at runtime
+data/
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+# OS
+.DS_Store
